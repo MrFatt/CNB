@@ -6,6 +6,8 @@
     "@reach/router": "^1.2.1",
     "howler": "^2.0.15",
     "react": "16.7.0-alpha.0",
+    "react-cache": "^2.0.0-alpha.1",
+    "scheduler": "0.11.0-alpha.0",
     "react-dom": "16.7.0-alpha.0",
     "react-scripts": "2.1.1",
     "socket.io-client": "^2.1.1",
